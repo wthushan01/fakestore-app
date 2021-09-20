@@ -1,0 +1,21 @@
+.grid-item-container {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.grid-item {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-box {
+    width: 250px;
+    font-size: 15px; 
+    margin-right: 15px;
+}
+
+.dropdown-list {
+    font-size: 15px;
+}
